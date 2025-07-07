@@ -27,7 +27,3 @@ Currently enhancing financial forecasting models using statistical methods and p
 - Data Visualization & Storytelling
 - Algorithm Development
 - Data Pipeline Optimization
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amithviswas&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=amithviswas&theme=dark&hide_border=false)
